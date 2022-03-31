@@ -1,5 +1,15 @@
+If (you){
+    System.out.println("I am Rakshit.");
+}else{
+    System.out.println("Who cares.");
+}
+
+While(time){
+    System.out.println("Code" + "eat" + "sleep" + "Repeat");
+}
+
 - 👋 Hi, I’m @Rakshitranjansingh 🙋
-- 👀 I’m interested in coding and eating and sleeping.
+- 👀 I’m interested in codin.
 - 🌱 I’m currently learning DSA  
 - 💞️ I’m looking to collaborate on DSA for now.
 - 📫 How to reach me rakshit.in.net
