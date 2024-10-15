@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, I’m @Rakshitranjansingh 🙋
-- 👀 I’m interested in codin.
+- 👀 I’m love coding.
 - 🌱 I’m currently learning DSA  
 - 💞️ I’m looking to collaborate on DSA for now.
 - 📫 How to reach me rakshit.in.net
